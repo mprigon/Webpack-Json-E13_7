@@ -17,6 +17,7 @@
       "pre-commit": "lint-staged"
     }
   },
+  
   "lint-staged": {
     "*.(js|jsx)": ["npm run lint", "git add"]
   },
