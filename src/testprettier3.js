@@ -11,4 +11,6 @@ let person = {
 }
 
      trainJedi(person);
-trainJedi({ name: 'Adeel', designation: 'padawan' });
+
+
+     trainJedi({ name: 'Adeel', designation: 'padawan' });
