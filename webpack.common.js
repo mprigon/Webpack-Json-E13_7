@@ -11,7 +11,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Production',
+      title: 'Development',
     }),
     new MiniCssExtractPlugin(),
     new TerserWebpackPlugin(),
