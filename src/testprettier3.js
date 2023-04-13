@@ -8,7 +8,7 @@ let person = {
     console.log('No need! already trained');
   }}}
   console.log(`Training ${jediWarrion.name} complete`);
-}
+};;
 
      trainJedi(person)
      ;
